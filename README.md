@@ -38,12 +38,12 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active"> <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a> </li>
-            <li class="nav-item"> <a class="nav-link" href="about.html">About Us</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="About-Us.html">About Us</a> </li>
             <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Data Recovery </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="ios-data-recovery.html">Data Recovery For IOS</a> <a class="dropdown-item" href="email-recovery.html">Email Recovery</a> <a class="dropdown-item" href="data-recovery-mac.html">Data Recovery for Mac</a> <a class="dropdown-item" href="data-recovery-windows.html">Data Recovery for Windows</a> </div>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="iOS Data recovery.html">Data Recovery For IOS</a> <a class="dropdown-item" href="Email Recovery.html">Email Recovery</a> <a class="dropdown-item" href="Data Recovery from Mac OS.html">Data Recovery for Mac</a> <a class="dropdown-item" href="Data Recovery from Windows OS.html">Data Recovery for Windows</a> </div>
             </li>
-            <li class="nav-item"> <a class="nav-link" href="great-deal.html">Great Deal</a> </li>
-            <li class="nav-item"> <a class="nav-link" href="contact.html">Contact Us</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="Recover your deleted data _ imprexius.html">Great Deal</a> </li>
+            <li class="nav-item"> <a class="nav-link" href="Contact-Us.html">Contact Us</a> </li>
             
           </ul>
         </div>
@@ -170,10 +170,10 @@
           <div class="col-12 col-lg-3">
             <ul class="f-link">
               <h3>Company</h3>
-              <li><a href="about.html">About Us</a></li>
+              <li><a href="About-Us.html">About Us</a></li>
               <li><a href="privacy-policy.html">Privacy Policy</a></li>
-              <li><a href="contact.html">Contact Us</a></li>
-              <li><a href="great-deal.html">Great Deal</a></li>
+              <li><a href="Contact-Us.html">Contact Us</a></li>
+              <li><a href="Recover your deleted data _ imprexius.html">Great Deal</a></li>
               <li><a href="customer-service-phone-number.html">Customer Service</a></li>
             </ul>
           </div>
